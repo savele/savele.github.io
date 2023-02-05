@@ -1,0 +1,239 @@
+.header{/* header */
+
+
+    position: absolute;
+    width: 100%;
+    height: 317px;
+    margin: 0px ;
+    top: 0px;
+    
+    background: linear-gradient(180deg, #000000 0%, #2C3DD6 100%);}
+body{margin: 0px;}
+.logo{position: absolute;
+    width: 600px;
+    height: 317px;
+    left: 0px;
+    top: 0px;}
+.text3{/* About us Contacts Questions */
+
+
+    position: absolute;
+    width: 60%;
+    height: 106px;
+    left: 470px;
+    top: 0px;
+    
+    font-family: 'Girassol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 212.4%;
+    /* or 102px */
+    
+    text-align: center;
+    letter-spacing: 0.095em;
+    
+    color: #000000;
+    }
+.main{/* main */
+
+
+    position: absolute;
+    width: 100%;
+    height: 1002px;
+    left: 0px;
+    margin: 0px;
+    top: 317px;
+    
+    background: linear-gradient(180.04deg, #2C3DD6 6.62%, #000000 99.96%);}
+.text{/* THE ALLIANCE OF INNOVATION AND TRADITION */
+
+
+    position: absolute;
+    width: 100%;
+    height: 114px;
+    top: 0px;
+    
+    font-family: 'Girassol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    text-align: center;
+    letter-spacing: 0.405em;
+    
+    color: #FFFFFF;}
+.watch{position: absolute;
+    width: 520px;
+    height: 480px;
+    left: 0px;
+    top: 500px;} 
+.watch2{/* седьмое изображение часов 1 */
+
+
+    position: absolute;
+    width: 468px;
+    height: 630px;
+    left: 488px;
+    top: 470px;}
+.watch3{/* четвертое изображение часов 1 */
+
+
+    position: absolute;
+    width: 392px;
+    height: 410px;
+    left: 950px;
+    top: 570px;}
+.text2{/* Code 11.59 by Audemars Piguet Tour Billon Openworked */
+
+
+    position: absolute;
+    width: 90%;
+    height: 114px;
+    top: 1100px;
+    right: 70px;
+
+    font-family: 'Girassol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    text-align: center;
+    letter-spacing: 0.16em;
+    
+    color: #FFFFFF;
+    }
+    
+.main1{/* main 1 */
+
+
+    position: absolute;
+    width: 100%;
+    height: 1002px;
+    left: 0px;
+    margin: 0px;
+    top: 1319px;
+    
+    background: linear-gradient(180deg, #000000 0%, #2C3DD6 100%);}    
+.text4{/* This limited edition of 50 pieces encompasses a contemporary two-tone case interweaving 18-carat white gold with blue ceramic. The blue openworked bridges and main plate, visible on both sides of the watch, echo the colour of the case middle. */
+
+
+    position: absolute;
+    width: 1340px;
+    height: 246px;
+    left: 0px;
+    top: 66px;
+    
+    font-family: 'Girassol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: 0.16em;
+    
+    color: #FFFFFF;}
+.watch4{/* часы второе изображение на синем фоне 1 */
+
+
+    position: absolute;
+    width: 598px;
+    height: 511px;
+    left: 34px;
+    top: 357px;}
+.watch5{/* третье изображение часов 1 */
+
+
+    position: absolute;
+    width: 700px;
+    height: 511px;
+    left: 632px;
+    top: 357px;}
+.main2{/* main 2 */
+
+
+position: absolute;
+width: 100%;
+height: 1314px;
+left: 0px;
+top: 2321px;
+
+background: linear-gradient(180deg, #2C3DD6 3.04%, #2C3DD6 88.58%);}
+.text5{/* SIZE41 mm THICKNESS10.7 mm WATER RESISTANCE30 m */
+
+
+    position: absolute;
+    width: 600px;
+    height: 171px;
+    left: 400px;
+    top: 30px;
+    
+    font-family: 'Girassol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    text-align: center;
+    letter-spacing: 0.095em;
+    
+    color: #ffffff;}
+.text6{/* CASE Blue ceramic case with 18-carat white gold bezel and lugs, glareproofed sapphire crystal and caseback. */
+
+
+    position: absolute;
+    width: 1345px;
+    height: 188px;
+    left: 3px;
+    top: 320px;
+    
+    font-family: 'Girassol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    text-align: center;
+    letter-spacing: 0.095em;
+    
+    color: #FFFFFF;
+    }
+.text7{/* GLASS The Manufacture has created a contemporary double curved sapphire crystal, whose tense, arched profile plays with depth, perspective and light for a unique optic experience. While its internal surface is shaped like a dome, it is vertically curved from 6 to 12 o’clock. */
+
+
+    position: absolute;
+    width: 1300px;
+    height: 342px;
+    left: 20px;
+    top: 500px;
+    
+    font-family: 'Girassol';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 57px;
+    text-align: center;
+    letter-spacing: 0.095em;
+    
+    color: #ffffff;}
+.knopka{/* кнопка */
+
+
+    position: absolute;
+    width: 650px;
+    height: 180px;
+    left: 330px;
+    top: -250px;
+    border-radius: 125px;
+    mix-blend-mode: normal;
+    box-shadow: 32px 34px 17px 5px rgba(0, 0, 0, 0.22);
+background-color: #ffffff;}
+    
+.footer{/* footer */
+
+
+    position: absolute;
+    width: 1349px;
+    height: 427px;
+    left: 0px;
+    top: 3635px;
+    
+    background: linear-gradient(180deg, #2C3DD6 0%, #000000 100%);}
